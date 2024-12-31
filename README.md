@@ -1,38 +1,38 @@
-# _archoptimiser_
+# archoptimiser
 
-_This repository contains .sh scripts to explore microarchitectural configrations of an OoO Issue Processor._
+This repository contains .sh scripts to explore microarchitectural configrations of an OoO Issue Processor.
 
-_This uses the processor simulation suite SimpleScalar & Wattch Simulators to analyse performance against a Splay Trees program._
+This uses the processor simulation suite SimpleScalar & Wattch Simulators to analyse performance against a Splay Trees program.
 
 ---
 
-### _Running the Simulator_
+### Running the Simulator
 
-_1. Clone this Repo:_
+1. Clone this Repo:
 
 ```
 git clone https://github.com/jepeake/arch-optimiser.git
 cd arch-optimiser
 ```
 
-_2. Run the Exploration Scripts:_
+2. Run the Exploration Scripts:
 ```
 ./scripts/{script_name_.sh
 ```
 
-_3. Run the Optimum Configuration:_
+3. Run the Optimum Configuration:
 ```
 ./optimum_config.sh
 ```
 ---
 
-### _Investigation_
+### Investigation
 
-_The investigation given here aims to minimise the total energy consumption of the OoO processor._
+The investigation given here aims to minimise the total energy consumption of the OoO processor.
 
-_The optimum script runs this configuration on SimpleScalar._
+The optimum script runs this configuration on SimpleScalar.
 
-_See [Report](Arch-Exploration-Report.pdf) for findings._
+See [Report](Arch-Exploration-Report.pdf) for findings.
 
 ---
 
