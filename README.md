@@ -1,4 +1,4 @@
-# archoptimiser
+# simplescalar-scripts
 
 This repository contains .sh scripts to explore microarchitectural configrations of an OoO Issue Processor.
 
