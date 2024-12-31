@@ -1,6 +1,6 @@
 # simplescalar-scripts
 
-This repository contains .sh scripts to explore microarchitectural configrations of an OoO Issue Processor.
+This repository contains scripts to explore microarchitectural configrations of an OoO Issue Processor.
 
 This uses the processor simulation suite SimpleScalar & Wattch Simulators to analyse performance against a Splay Trees program.
 
